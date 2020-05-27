@@ -1022,4 +1022,7 @@ nl:
       confirmation: Bevestiginginstructies niet ontvangen?
       unlock: Ontgrendelingsinstructies niet ontvangen?
     unlock:
-      resend: Ontgrendelingsinstructies opnieuw versturen
+      resend: 'Ontgrendelingsinstructies opnieuw versturen'
+  care_plan:
+    index:
+      title: 'Care Plan'

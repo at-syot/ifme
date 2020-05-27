@@ -977,4 +977,7 @@ en:
       confirmation: Didn't receive confirmation instructions?
       unlock: Didn't receive unlock instructions?
     unlock:
-      resend: Resend unlock instructions
+      resend: 'Resend unlock instructions'
+  care_plan:
+    index:
+      title: 'Care Plan'

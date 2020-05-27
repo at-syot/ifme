@@ -1014,4 +1014,7 @@ it:
       confirmation: Non hai ricevuto le istruzioni per confermare la tua EMail?
       unlock: Non hai ricevuto le istruzioni per sbloccare il tuo account?
     unlock:
-      resend: Reinvia istruzioni di sblocco
+      resend: 'Reinvia istruzioni di sblocco'
+  care_plan:
+    index:
+      title: 'Care Plan'

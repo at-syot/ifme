@@ -1032,4 +1032,7 @@ es:
       confirmation: ¿No recibiste instrucciones de confirmación?
       unlock: ¿No recibiste instrucciones para desbloquear?
     unlock:
-      resend: Reenviar instrucciones para desbloquear
+      resend: 'Reenviar instrucciones para desbloquear'
+  care_plan:
+    index:
+      title: 'Care Plan'

@@ -995,4 +995,7 @@ nb:
       confirmation: Mottok ikke bekreftelsesinstruksjoner?
       unlock: Mottok ikke opplåsningsinstruksjoner?
     unlock:
-      resend: Send opplåsningsinstruksjoner på nytt
+      resend: 'Send opplåsningsinstruksjoner på nytt'
+  care_plan:
+    index:
+      title: 'Care Plan'

@@ -998,4 +998,7 @@ hi:
       confirmation: पुष्टि निर्देश प्राप्त नहीं हुआ?
       unlock: क्या अनलॉक निर्देश प्राप्त नहीं होंगे?
     unlock:
-      resend: अनलॉक निर्देश पुनः भेजें
+      resend: 'अनलॉक निर्देश पुनः भेजें'
+  care_plan:
+    index:
+      title: 'Care Plan'

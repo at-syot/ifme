@@ -995,4 +995,7 @@ sv:
       confirmation: Fick du inte bekräftelsesinstruktioner?
       unlock: Fick du inte upplåsningsinstruktioner?
     unlock:
-      resend: Skicka upplåsningsinstruktionerna igen
+      resend: 'Skicka upplåsningsinstruktionerna igen'
+  care_plan:
+    index:
+      title: 'Care Plan'

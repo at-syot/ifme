@@ -1095,4 +1095,7 @@ de:
       confirmation: Keine Anweisungen zur Bestätigung erhalten?
       unlock: Keine Anweisungen zur Freischaltung erhalten?
     unlock:
-      resend: Anweisungen zur Freischaltung versenden
+      resend: 'Anweisungen zur Freischaltung versenden'
+  care_plan:
+    index:
+      title: 'Care Plan'
