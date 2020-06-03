@@ -1,7 +1,11 @@
 <% title t('care_plan.index.title') %>
 
+<%= react_component('CarePlanContacts', html_options: {}, props: {
+  contacts: @contacts
+}) %>
+
 <% if @bookmarked_strategies.any? %>
-  <h2><%= t('strategies.plural') %></h2>
+  <h2 class="pageSubtitle"><%= t('strategies.plural') %></h2>
   <div class="gridTwo marginTop">
     <% @bookmarked_strategies.each do |strategy| %>
       <div class="gridTwoItemBoxLight">

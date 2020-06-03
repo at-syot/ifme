@@ -980,4 +980,7 @@ en:
       resend: 'Resend unlock instructions'
   care_plan:
     index:
-      title: 'Care Plan'
+      title: Care Plan
+      contacts: Contacts
+      new_contact: New Contact
+      phone: Phone
